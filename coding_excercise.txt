@@ -1,0 +1,19 @@
+Prompt:
+#``1  Print the number of integers in an array that are above the given input and the number that are below, e.g. for the array [1, 5, 2, 1, 10] with input 6, print “above: 1, below: 4”.
+
+
+#2  Rotate the characters in a string by a given input and have the overflow appear at the beginning, e.g. “MyString” rotated by 2 is “ngMyStri”.
+
+
+#3  If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+
+Let us know if you have any questions! If you're good to go, please send us back your exercise at your convenience (please upload your response to a public git repository, such as Github).
+
+
+
+For questions 1 and 2, please see the coding_excersise.py script.
+
+For question 3:
+I'm not sure I would want to change anything. If I had to pick something: changing how Python handles global variables would be convenient for the kind of scripts I tend to write. I tend to need global variables that I access in helper functions and it would be convenient if I had a way to declare a variable as global once and not have to re-declare it as global within each function.
+
